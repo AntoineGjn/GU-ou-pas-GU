@@ -3,3 +3,5 @@ I made a ConvNet learn the polytechnique GU using only 50 pictures, most of them
 It might seems very hard at first to 'train' a network with a dataset so small but in pratice very few people actually train ConvNets from scratch. Instead, it is common to pretrain a ConvNet on a very large dataset (e.g. ImageNet, which contains 1.2 million images with 1000 categories), and then use the ConvNet either as an initialization or a fixed feature extractor for the task of interest.
 
 The technique employed here is called 'Transfert Learning'
+
+The dataset is available here : https://drive.google.com/open?id=1gcrlqG8yRip4qhy92J6p0RwnMn0tJ4BP
